@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void solve(){
-    print("what tha fuck");
+    cout<<"what tha fuck";
 }  
 int main(){
     cout<<"hello world";
