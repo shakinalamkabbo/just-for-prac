@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 void solve(){
-    
-}
+    print("what tha fuck");
+}  
 int main(){
     cout<<"hello world";
     int n;
-    while(n--)solve();
+    while(n--)solve();//
 }
