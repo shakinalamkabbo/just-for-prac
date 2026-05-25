@@ -6,5 +6,6 @@ void solve(){
 int main(){
     cout<<"hello world";
     int n;
+    cin>>n;
     while(n--)solve();//
 }
